@@ -1,0 +1,35 @@
+# Blender backup files
+*.blend1
+*.blend2
+
+# Archive directory
+{archive}/
+
+# Renders directory
+renders/
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Blender temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Python cache (if any Python scripts are used)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
